@@ -1,1 +1,1 @@
-# IITG Summer Analytics
+Analytics
